@@ -13,10 +13,10 @@
 }
 @media only screen and(max-width:auto){
   .container{
-    width:100%
+    width:auto;
   }
     .weather-card {
-    width: 100%;
+    width: auto;
     padding: 10px;
     font-size: 14px;
   }
