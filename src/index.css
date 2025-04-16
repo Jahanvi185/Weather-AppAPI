@@ -12,17 +12,4 @@
   display: grid;
   background-color: rgb(127, 177, 242);
 }
-@media only screen and(max-width:60%){
-  .container{
-    width:auto;
-  }
-    .weather-card {
-    width: 70%;
-    padding: 10px;
-    font-size: 14px;
-  }
 
-  .header {
-    font-size: 1.2rem;
-  }
-}
