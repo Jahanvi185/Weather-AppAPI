@@ -7,7 +7,8 @@
   font-family: "Poppins", sans-serif;
 }
 .app{
-  min-height: 90vh;
+  min-height: 100vh;
+  min-width:100vw;
   display: grid;
   background-color: rgb(127, 177, 242);
 }
