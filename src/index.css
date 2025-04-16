@@ -7,16 +7,16 @@
   font-family: "Poppins", sans-serif;
 }
 .app{
-  min-height: 100vh;
+  min-height: 90vh;
   display: grid;
   background-color: rgb(127, 177, 242);
 }
-@media only screen and(max-width:auto){
+@media only screen and(max-width:60%){
   .container{
     width:auto;
   }
     .weather-card {
-    width: auto;
+    width: 70%;
     padding: 10px;
     font-size: 14px;
   }
